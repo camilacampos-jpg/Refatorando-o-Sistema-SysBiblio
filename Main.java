@@ -12,7 +12,7 @@ void main() {
             5 - Editar Livro
             6 - Ordenar Por Ano
             0 - Sair
-            """; :
+            """; 
     int opcao;
     do {
         IO.println(menu);
